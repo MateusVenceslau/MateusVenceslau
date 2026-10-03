@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! Eu sou o Mateus 👋
 
-<!--
-**MateusVenceslau/MateusVenceslau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor em formação  
+🚀 Buscando minha primeira oportunidade profissional em Tecnologia
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- React
+- Node.js
+- HTML5
+- CSS3
+- SQL
+- MySQL
+- Git & GitHub
+- Godot / GDScript
+
+## 📌 Projetos
+
+### 🎫 Central de Operações de QA
+Sistema voltado para gerenciamento e acompanhamento de operações de QA.
+
+### 💰 Controle de Gastos
+Aplicação para organização e acompanhamento de despesas.
+
+### 📦 Pedidos Veloz
+Sistema para gerenciamento de pedidos.
+
+### 🎮 Jogo de Plataforma
+Jogo desenvolvido com Godot e GDScript.
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Full Stack
+- React
+- Node.js
+- Banco de Dados
+- APIs
+- Boas práticas de desenvolvimento
+
+## 📫 Contato
+
+[LinkedIn](COLOQUE-SEU-LINKEDIN-AQUI)
