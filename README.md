@@ -2,7 +2,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor em formação  
-🚀 Buscando minha primeira oportunidade profissional em Tecnologia
 
 ## 🛠️ Tecnologias
 
