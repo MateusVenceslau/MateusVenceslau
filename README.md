@@ -40,4 +40,4 @@ Jogo desenvolvido com Godot e GDScript.
 
 ## 📫 Contato
 
-[LinkedIn](COLOQUE-SEU-LINKEDIN-AQUI)
+[LinkedIn] www.linkedin.com/in/mateus-venceslau-carvalho-0330852b7
