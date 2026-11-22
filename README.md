@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Mateus!;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Seja+bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Mateus!;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo!" />
 
 </div>
 
