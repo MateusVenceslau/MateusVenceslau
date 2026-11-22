@@ -9,11 +9,6 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 
-# Olá! Eu sou o Mateus 👋
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor em formação  
-
 ## 🛠️ Tecnologias
 
 - JavaScript
