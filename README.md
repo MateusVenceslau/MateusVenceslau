@@ -38,14 +38,14 @@ Sistema desenvolvido para gerenciamento de pedidos, aplicando conceitos de desen
 
 <p align="center">
   <a href="https://www.instagram.com/mateus__venceslau/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mateusvenceslaucarvalho10@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mateusvenceslaucarvalho10@gmail.com" target="_blank">
+    <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5511951996431" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/>
   </a>
 </p>
