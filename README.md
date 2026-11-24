@@ -34,17 +34,18 @@ Sistema desenvolvido para gerenciamento de pedidos, aplicando conceitos de desen
 
 **Tecnologias:** JavaScript • Docker • Kubernetes • Terraform • CI/CD
 
-
 ## 📫 Contato
 
 <p align="center">
   <a href="https://www.instagram.com/mateus__venceslau/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mateusvenceslaucarvalho10@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5511951996431" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" />
   </a>
 </p>
