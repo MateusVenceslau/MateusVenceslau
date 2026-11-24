@@ -16,7 +16,6 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,php,kubernetes,aws,django&theme=dark&perline=15" alt="My Skills" /></a>
 
-## 🚀 Projetos em destaque
 
 ## 🚀 Projetos 
 
