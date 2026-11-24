@@ -16,18 +16,29 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,php,kubernetes,aws,django&theme=dark&perline=15" alt="My Skills" /></a>
 
-### 🎫 Central de Operações de QA
-Sistema voltado para gerenciamento e acompanhamento de operações de QA.
+## 🚀 Projetos em destaque
 
-### 💰 Controle de Gastos
-Aplicação para organização e acompanhamento de despesas.
+## 🚀 Projetos 
 
-### 📦 Pedidos Veloz
-Sistema para gerenciamento de pedidos.
+### 🎬 [CineVerse](https://github.com/MateusVenceslau/CineVerse)
+Aplicativo mobile de filmes desenvolvido com React Native e Expo. Permite explorar catálogos, pesquisar títulos, consultar detalhes e utilizar integração com serviços externos.
 
-### 🎮 Jogo de Plataforma
-Jogo desenvolvido com Godot e GDScript.
+**Tecnologias:** JavaScript • React Native • Expo • Node.js • Express • TiDB Cloud • TMDB API • Google Cast
 
+### 💬 [Conselho Aleatório](https://github.com/MateusVenceslau/Conselho-aleat-rio-)
+Aplicação que apresenta conselhos aleatórios, proporcionando uma experiência simples e dinâmica para descobrir novas mensagens.
+
+**Tecnologias:** A confirmar.
+
+### 🃏 [Cartas Yu-Gi-Oh!](https://github.com/MateusVenceslau/Cartas-Yu-Gi-Oh-)
+Projeto para explorar e visualizar cartas do universo Yu-Gi-Oh!, com informações e elementos relacionados ao jogo.
+
+**Tecnologias:** JavaScript • HTML • CSS
+
+### 📦 [Pedidos Veloz](https://github.com/MateusVenceslau/pedidos-veloz)
+Sistema desenvolvido para gerenciamento de pedidos, aplicando conceitos de desenvolvimento de software, organização de serviços e infraestrutura.
+
+**Tecnologias:** JavaScript • Docker • Kubernetes • Terraform • CI/CD
 
 
 ## 📫 Contato
