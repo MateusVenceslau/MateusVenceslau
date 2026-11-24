@@ -12,7 +12,7 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,javascript,css,html,python,java,typescript,godot,linux,mysql,pycharm,vscode,windows,nodejs,figma,react&theme=dark&perline=15" alt="My Skills" /></a>
 
-📚 Atualmente estudando
+ ## 📚 Atualmente estudando
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,php,kubernetes,aws,django&theme=dark&perline=15" alt="My Skills" /></a>
 
@@ -28,12 +28,7 @@ Sistema para gerenciamento de pedidos.
 ### 🎮 Jogo de Plataforma
 Jogo desenvolvido com Godot e GDScript.
 
-## 📚 Atualmente estudando
 
-
-- Node.js
-- APIs
-- Boas práticas de desenvolvimento
 
 ## 📫 Contato
 
