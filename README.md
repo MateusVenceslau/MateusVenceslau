@@ -10,11 +10,37 @@
 
 ## 🛠️ Tecnologias
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,javascript,css,html,python,java,typescript,godot,linux,mysql,pycharm,vscode,windows,nodejs,figma,react&theme=dark&perline=15" alt="My Skills" /></a>
+<p align="left">
+  <a href="https://skillicons.dev/icons?i=docker&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=javascript&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=css&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=html&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=python&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=java&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=typescript&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=godot&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=godot&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=linux&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=mysql&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=pycharm&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=vscode&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=windows&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=nodejs&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=figma&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=react&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/></a>
+</p>
+
 
  ## 📚 Atualmente estudando
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,php,kubernetes,aws,django&theme=dark&perline=15" alt="My Skills" /></a>
+<p align="left">
+  <a href="https://skillicons.dev/icons?i=cpp&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=cs&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=php&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=kubernetes&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=aws&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="60"/></a>
+  <a href="https://skillicons.dev/icons?i=django&theme=dark" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="60"/></a>
+</p>
+
 
 
 ## 🚀 Projetos 
