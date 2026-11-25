@@ -48,8 +48,7 @@ Sistema desenvolvido para gerenciamento de pedidos, aplicando conceitos de desen
   <a href="https://wa.me/5511951996431" target="_blank">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mateus-venceslau-carvalho-0330852b7/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
+  <a href="https://www.linkedin.com/in/mateus-venceslau-carvalho-0330852b7/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45"/>
 </a>
 </p>
